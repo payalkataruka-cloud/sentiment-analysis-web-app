@@ -5,6 +5,12 @@
 This project analyzes text reviews and classifies their sentiment as Positive, Neutral, or Negative using a pretrained Transformer model from Hugging Face.
 
 The application is built with Python and Streamlit. It supports individual review analysis and bulk analysis through CSV uploads.
+# 💗 Sentiment Analysis Web App
+
+**🌐 Live Demo:** [Open Sentiment Analysis App](https://payalkataruka-cloud-sentiment-analysis-web-app-app-ui-y5xjy4.streamlit.app/)
+
+An AI-powered web application that analyzes text reviews and classifies their sentiment as positive, neutral, or negative using Python, Streamlit, and a pretrained NLP model.
+
 
 ## Features
 
